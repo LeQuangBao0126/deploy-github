@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-github/static/css/main.a46d80f6.css",
+    "main.js": "/deploy-github/static/js/main.bf330f6f.js",
+    "static/js/787.f1b5b395.chunk.js": "/deploy-github/static/js/787.f1b5b395.chunk.js",
+    "static/media/svetle.png": "/deploy-github/static/media/svetle.0f14769556901466dd1a.png",
+    "static/media/sqlIcon.png": "/deploy-github/static/media/sqlIcon.fbab318b15dd3fd98649.png",
+    "static/media/redisPic.png": "/deploy-github/static/media/redisPic.5b5799aea9a484e3bc71.png",
+    "static/media/elastic.png": "/deploy-github/static/media/elastic.16fbf2f6e65c79958b2b.png",
+    "static/media/node-js-svgrepo-com.svg": "/deploy-github/static/media/node-js-svgrepo-com.4d8b9a0c5a604b6b68d3750273f913d6.svg",
+    "static/media/Go_Logo_Blue.svg": "/deploy-github/static/media/Go_Logo_Blue.a7ec2a5cabbfaa86d4ab2049185ce4d0.svg",
+    "static/media/typescript.svg": "/deploy-github/static/media/typescript.0862127c02a57f6d39dabe211ae436ab.svg",
+    "index.html": "/deploy-github/index.html",
+    "main.a46d80f6.css.map": "/deploy-github/static/css/main.a46d80f6.css.map",
+    "main.bf330f6f.js.map": "/deploy-github/static/js/main.bf330f6f.js.map",
+    "787.f1b5b395.chunk.js.map": "/deploy-github/static/js/787.f1b5b395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a46d80f6.css",
+    "static/js/main.bf330f6f.js"
+  ]
+}
