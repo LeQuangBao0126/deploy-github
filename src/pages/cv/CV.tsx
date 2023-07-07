@@ -129,8 +129,6 @@ export default function CV() {
               <p className='text-sm '>GITHUB : https://github.com/LeQuangBao0126/TrelloTicketManagementAPI</p>
               <p className='text-sm text-orange-800 font-bold'>
                 <span>-Language : Javascript ,Express.js , Babel to compile JS when dev, build</span> <br />
-                <span>-Storage Data: NoSQL (MongoDB Cloud) </span>
-                <br />
                 <span>-Main features :</span>
                 <br />
                 <span>
@@ -138,10 +136,12 @@ export default function CV() {
                   column , and then invite another users to join the board. to comments
                 </span>
                 <br />
-                <span>-Data Structure to the boards and pagination ,</span>
-                <span>-Data Structure to the boards and pagination ,</span>
+                <span>Upload buffer cover images to Cloudinary Provider</span>
                 <br />
-                <span>-Deployment: Use for Local </span>
+                <span>Invite user in board to specify card , or remove user to card</span>
+                <br />
+                <span>Push notify when invite via Web Socket</span>
+                <br />
               </p>
             </div>
           </div>
