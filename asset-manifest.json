@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-github/static/css/main.a46d80f6.css",
-    "main.js": "/deploy-github/static/js/main.bf330f6f.js",
+    "main.js": "/deploy-github/static/js/main.16e145e5.js",
     "static/js/787.f1b5b395.chunk.js": "/deploy-github/static/js/787.f1b5b395.chunk.js",
     "static/media/svetle.png": "/deploy-github/static/media/svetle.0f14769556901466dd1a.png",
     "static/media/sqlIcon.png": "/deploy-github/static/media/sqlIcon.fbab318b15dd3fd98649.png",
@@ -12,11 +12,11 @@
     "static/media/typescript.svg": "/deploy-github/static/media/typescript.0862127c02a57f6d39dabe211ae436ab.svg",
     "index.html": "/deploy-github/index.html",
     "main.a46d80f6.css.map": "/deploy-github/static/css/main.a46d80f6.css.map",
-    "main.bf330f6f.js.map": "/deploy-github/static/js/main.bf330f6f.js.map",
+    "main.16e145e5.js.map": "/deploy-github/static/js/main.16e145e5.js.map",
     "787.f1b5b395.chunk.js.map": "/deploy-github/static/js/787.f1b5b395.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a46d80f6.css",
-    "static/js/main.bf330f6f.js"
+    "static/js/main.16e145e5.js"
   ]
 }
